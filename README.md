@@ -9,6 +9,7 @@ iHoopInsight, the winning project of the 2024 Orange Hoops Data Science Challeng
 Below is the link 
 
 https://www.linkedin.com/school/ischoolsu/posts/
+
 https://ischool.syracuse.edu/ischool-announces-winners-of-the-orange-hoops-data-science-challenge/
 
 ## Introduction
